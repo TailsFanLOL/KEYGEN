@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "Determination Mono";
+    src: url('./Determination Mono.ttf')
+}
+html, body, svg, div, span, button, a {
+    background-color: rgba(000, 000, 000, 000);
+    color: white;
+    text-decoration-color: white;
+    -moz-text-decoration-color: white;
+    text-shadow: whitesmoke;
+    font-size: x-large;
+    font-family: "Determination Mono", terminal, "Monospace Regular", "Noto Mono", "Noto Sans Mono", "Ubuntu Mono", monospace, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
